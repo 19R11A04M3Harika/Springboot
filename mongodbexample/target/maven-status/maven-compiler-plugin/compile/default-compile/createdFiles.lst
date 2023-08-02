@@ -1,0 +1,4 @@
+com\mongo\example\mongodbexample\controller\Mycontroller.class
+com\mongo\example\mongodbexample\model\Student.class
+com\mongo\example\mongodbexample\MongodbexampleApplication.class
+com\mongo\example\mongodbexample\repo\StudentRepository.class
